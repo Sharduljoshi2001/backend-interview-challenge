@@ -1,6 +1,6 @@
 import sqlite3 from 'sqlite3';
-import { promisify } from 'util';
-import { Task, SyncQueueItem } from '../types';
+// import { promisify } from 'util';
+// import { Task, SyncQueueItem } from '../types';
 
 const sqlite = sqlite3.verbose();
 
